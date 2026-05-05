@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Bensmina-Anass">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Anass+%E2%80%94+ML+%26+Infra+Engineer;Docker+%E2%80%A2+Distributed+Systems+%E2%80%A2+ML;ENSIAS+%E2%80%A2+Rabat+%E2%80%A2+Morocco" alt="Typing SVG" />
 </a>
 
@@ -60,10 +60,7 @@ Junior Entrepreneur at  [`Junior Entreprise ENSIAS`](https://jee.ma)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" height="180" />
+<img src="https://streak-stats.demolab.com?user=Bensmina-Anass&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" height="180" />
 
 </div>
 
@@ -73,7 +70,7 @@ Junior Entrepreneur at  [`Junior Entreprise ENSIAS`](https://jee.ma)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bensmina-Anass&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -84,9 +81,9 @@ Junior Entrepreneur at  [`Junior Entreprise ENSIAS`](https://jee.ma)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bensmina-Anass/Bensmina-Anass/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bensmina-Anass/Bensmina-Anass/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Bensmina-Anass/Bensmina-Anass/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -97,7 +94,7 @@ Junior Entrepreneur at  [`Junior Entreprise ENSIAS`](https://jee.ma)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=7AA2F7&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bensmina-Anass&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=7AA2F7&area=true" />
 
 </div>
 
